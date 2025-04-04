@@ -5,3 +5,4 @@ jobs:
     uses: vsaitejasgitorg/github-actions-reusable/.github/workflows/ci-pr.yaml@main
     with:
       component_name: user
+      app_type: nodejs
